@@ -1,0 +1,250 @@
+head H1{
+    width: 1127px;
+    height: 68px;
+    left: calc(50% - 1127px/2 - 26.5px);
+    top: 235px;
+    font-family: 'Roboto', sans-serif;
+    margin-block-end: 0px;
+}
+h1{
+    top: 220px;
+    left: 370px;
+    margin-block-end: 11px;
+    font-size: 58px;
+}
+#Big-contact{
+    border-left-width: 235px;
+    height: 60px;
+    background-color: #5528ff;
+    border-radius: 10px;
+    border-color: transparent;
+    color:white;
+    border: 1px solid transparent;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-inline-start: 60px;
+    padding-inline-end: 60px;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Roboto';
+    text-align: justify;
+}
+#Big-contact:hover{
+    background-color: #8849ff;
+}
+#header-p{
+    width: 741px;
+    height: 196px;
+    line-height: 52px;
+    color: #4f4f4f;
+    margin-top: 0px;
+    font-size: 32px;
+    letter-spacing: 0px;
+    text-align: justify;
+    margin-bottom: 92px;
+}
+#logo{
+    /* float: left; */
+    position: static;
+    top: 58px;
+    height: 78px;
+    width: 200px;
+    left: 370px;
+    padding-top: 53px;
+}
+.buttons{
+    float: right;
+    padding: 20px;
+    padding-top: 77px;
+}
+.div-buttons{
+    float: right;
+    margin-right: 300px;
+}
+#contacts{
+    border: 1px solid transparent;
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: #5528ff;
+    color: white;
+    float: right;
+    margin-top: 71px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#contacts:hover{
+    background-color: #8849ff;
+} 
+a{
+    font-family: sans-serif;
+    font-size: smaller;
+    font-weight: 550;
+}
+a:link {
+    text-decoration: none;
+} 
+a:visited {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: smaller;
+} 
+a:hover {
+    text-decoration: underline;
+}  
+a:active {
+    text-decoration: underline;
+  }
+body{
+    text-align: left;
+    position: relative;
+    min-width: 250px;
+    margin: 0;
+   /* max-width: 1170px;
+   /* margin:0 auto; */
+   /* padding-left: 60px; */
+    font-family: 'Roboto', sans-serif;
+}
+.Header{
+    margin-left: 369px ;
+}
+.Our-services{
+    margin: 0 auto;
+    padding-left: 100px;
+}
+
+#services{
+    border-top: 1px solid #C2C2C2;
+    margin-top: 128px;
+    padding-bottom: -100px;
+    margin-bottom: 500px;
+}
+.float{
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 350px;
+    border: 1px, solid, transparent;
+    background-color: white;
+    padding: 20px;
+    color: #C2C2C2;
+    font-size: 14px;
+}
+.Mobile-dev img{
+    float:left;
+    padding-right: 50px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+.Mobile-dev{
+    margin-top: 90px;
+    margin-left: 300px;
+    float: left;
+}
+.Mobile-dev p{
+    width: 390px;
+    font-size: 14px;
+    color: #C2C2C2;
+    text-align: justify;
+    line-height: 20px;
+    padding-right: 100px;
+}
+.Web-dev{
+    float: left;
+    Margin-left: 155px;
+    margin-top: 90px;
+    margin-right: 350px;
+}
+.Web-dev img{
+    float: left;
+    margin-top: 40px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+}
+.Web-dev p{
+    width: 440px;
+    font-size: 14px;
+    color: #C2C2C2;
+    text-align: justify;
+    line-height: 20px;
+}
+.Product-design{
+    float: left;
+    padding-left: 282px;
+    padding-top: 20px;
+}
+.Product-design img{
+    float: left;
+    padding-bottom: 20px;
+    padding-right: 35px;
+    padding-top: 20px;
+}
+.Product-design p{
+    width: 400px;
+    color: #C2C2C2;
+    font-size: 14px;
+    text-align: justify;
+}
+.QA{
+    float: left;
+    padding-left: 280px;
+    padding-top: 28px;
+}
+.QA img{
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+.QA p{
+    width: 400px;
+    color: #C2C2C2;
+    font-size: 14px;
+    text-align: justify;
+
+}
+body p{
+    font-family: Roboto;
+}
+body h2{
+    font-family: Roboto;
+}
+body h1{
+    font-family: 'Roboto';
+    padding-top: 65px;
+}
+#clients{
+    border-top: 1px solid #C2C2C2;
+}
+#clients img{
+    margin-left: 375px;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
+#Our-Clients{
+    top: 1130px;
+
+}
+#team{
+    border-top: 1px solid #C2C2C2;
+}
+#Our-Team{
+    top: 1563px;
+}
+#team img{
+    margin-top: 80px;
+    margin-left: 320px;
+    margin-bottom: 10px;
+}
+.footer{
+    padding-top: 18px;
+    background-color:#F7F7F7;
+}
+#footer-logo{
+    margin-left: 375px;
+    padding-bottom: 10px;
+}
+.links-ico{
+    float: right;
+    margin-right: 280px;
+}
