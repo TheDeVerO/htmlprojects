@@ -1,14 +1,6 @@
 body {
-    /*
-    background-image: url(./Rectangle.png);
-    background-image: radial-gradient(86.94% 263.61% at 96.08% 15.9%, rgba(0, 25, 88, 0) 0%, #000000 100%), url('./Rectangle.png');
-    height: 100%;
-    width: 100%;
-    background-repeat: no-repeat; */
     margin: 0px;
 }
-
-body ::after {}
 
 html {
     padding: 0px;
